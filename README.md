@@ -2,6 +2,11 @@
 Your project's description...
 
 ## Environments
+
+- Preview: https://main--eds-test--watopin.aem.page/
+- Live: https://main--eds-test--watopin.aem.live/
+
+### Format
 - Preview: https://main--{repo}--{owner}.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
 
